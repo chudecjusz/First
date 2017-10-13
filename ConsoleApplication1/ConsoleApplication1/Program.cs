@@ -10,7 +10,8 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello word!!! [SA] 2");
+
+            Console.WriteLine("Hello word!!! [SA] dupa");
             Console.WriteLine("Ala ma kota");
             Console.ReadKey();
         }
